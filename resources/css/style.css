@@ -1,0 +1,17 @@
+.cta {
+	text-align: center;
+}
+body {
+	background-color: black;
+}
+h1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+a {
+	color: Aquamarine;
+	font-size: 16px;
+}
